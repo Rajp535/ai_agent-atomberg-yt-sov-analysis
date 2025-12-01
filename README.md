@@ -22,4 +22,4 @@ Sentiment: Mostly **Positive**
 - Python, Pandas, Requests, TextBlob, Matplotlib  
 
 ---
-👨‍💻 Author: [Your Name](https://github.com/Rajp535)
+👨‍💻 Author: [Raj Pandit](https://github.com/Rajp535)
